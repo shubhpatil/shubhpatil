@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhpatil
+- 👋 Hi, I’m Shubham Patil aka DX
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate
